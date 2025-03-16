@@ -1,5 +1,13 @@
-### Hi there 👋
+### Hi there 👋  
 
+I'm a fullstack developer with three years of experience and lots of knowledge to acquire.
+
+My current occupation is in industrial environment projects in the MES/MOM area, learning technologies such as Siemens Opcenter or Simatic IT. 
+Most of my code is written in C# or Javascript/Typescript frameworks, but in this profile you will find projects coded in C or Java from my school days.
+
+Check out my latest projects:
+- 📁: [File organizer](https://github.com/carlosiglesias1/ReorganizeFiles)
+- 📑: [My portfolio](https://github.com/carlosiglesias1/carlosiglesias1.github.io)
 <!--
 **carlosiglesias1/carlosiglesias1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
